@@ -3,53 +3,53 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/author/admin/</loc>
+    <loc>https://www.andyfriar.com/author/admin/</loc>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://www.andyfriar.com/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/authors/</loc>
+    <loc>https://www.andyfriar.com/authors/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/author/</loc>
+    <loc>https://www.andyfriar.com/author/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://www.andyfriar.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>https://www.andyfriar.com/post/</loc>
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
+    <loc>https://www.andyfriar.com/publication_types/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/publication/</loc>
+    <loc>https://www.andyfriar.com/publication/</loc>
   </url>
   
   <url>
-    <loc>/talk/</loc>
+    <loc>https://www.andyfriar.com/talk/</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://www.andyfriar.com/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/authors/admin/</loc>
+    <loc>https://www.andyfriar.com/authors/admin/</loc>
     <priority>0</priority>
   </url>
   
